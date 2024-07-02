@@ -234,3 +234,5 @@ class NaveDeCombateSigilosa inherits NaveDeCombate{
 		
 	}
 }
+
+//finalizado
